@@ -1,6 +1,8 @@
 <h1>👋 Hi, I’m Marina Jaudy,</h1></br>
+<h2>I am a Web Developer from 🇧🇷 Natal-RN.</h2> </br>
+
 <h2>Welcome to my profile. 😄 </h2></br>
-<h3>I am a Web Developer from 🇧🇷 Natal-RN.</h3>
+
 
 <p>I'm a frontend developer, I'm currently in Full Stack Web training at Labenu, having experience in practical individual and group projects, 
 using technologies such as HTML, CSS, JavaScript, React and others. I have a postgraduate degree in Cinema, Radio and TV, I have been a photographer 
