@@ -1,5 +1,5 @@
-👋 Hi, I’m Marina Jaudy,
-Welcome to my profile. 😄
+👋 Hi, I’m Marina Jaudy, </br>
+Welcome to my profile. 😄 </br>
 I am a Web Developer from 🇧🇷 Natal-RN.
 
 I'm a frontend developer, I'm currently in Full Stack Web training at Labenu, having experience in practical individual and group projects, 
