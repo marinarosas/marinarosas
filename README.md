@@ -1,4 +1,4 @@
-👋 Hi, I’m Marina Jaudy, </br>
+<h1>👋 Hi, I’m Marina Jaudy,</h1> </br>
 Welcome to my profile. 😄 </br>
 I am a Web Developer from 🇧🇷 Natal-RN.
 
