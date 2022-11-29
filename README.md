@@ -1,5 +1,5 @@
 <h1>Hi, I’m Marina Jaudy! 👋</h1></br>
-<h1>I am a Web Developer from 🇧🇷 Natal-RN.</h1> </br>
+<p>I am a Web Developer from 🇧🇷 Natal-RN.</p> </br>
 
 <p>Welcome to my profile. 😄 </p></br>
 
