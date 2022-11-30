@@ -1,19 +1,3 @@
-
-
-
-<p></p>
-
-<h2>Technologies that I code with 💻</h2>
-
-VSCode React JavaScript CSS3 HTML5 NodeJS Express MySQL Git
-
-Learning:
-
-React Native TypeScript
-
-Contact me in social media
-Linkedin
-
 # Hello, I am Marina Jaudy! <img src="" width="30">
 
 ### Welcome to my profile. 😄
