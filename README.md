@@ -9,7 +9,7 @@ Eu sou desenvolvedora web residente em 🇧🇷 Natal-RN.
 ## Um pouco sobre mim
 
 **Sou desenvolvedora frontend, atualmente estou em formação Web Full Stack, na <a href="https://www.labenu.com.br">_Labenu_</a>, tendo experiência em projetos práticos individuais e em grupo, utilizando tecnologias como HTML, CSS, JavaScript, React e outras.
-Sou pós -graduada em Cinema, Rádio e Tv, fotografa e editora de vídeos há 7 anos, com experiência profissional. Sempre gostei de design, usando o Photoshop, Figma ou Canva. E estudando UI/UX me deparei com Frontend e tive certeza que dali pra frente queria me tornar uma Dev.**
+Sou cineasta, pós -graduada em Rádio e Tv, fotografa e editora de vídeos há 7 anos, com experiência profissional. Sempre gostei de design, usando o Photoshop, Figma ou Canva. E estudando UI/UX, de forma independente, me deparei com Frontend e tive certeza que dali pra frente queria me tornar uma Dev.**
 
 ## Tecnologias que uso 💻
 
