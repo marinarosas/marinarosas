@@ -1,20 +1,17 @@
-# Hello, I am Marina Jaudy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Ola, Sou Marina Jaudy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-### Welcome to my profile. 😄
+### Bem-vinda(o) ao meu perfil. 😄
 
-I am a Web Developer from 🇧🇷 Natal-RN.
+Eu sou desenvolvedora web residente em 🇧🇷 Natal-RN.
 
 <img src="" width="fit">
 
-## A little about me
+## Um pouco sobre mim
 
-**I'm a frontend developer, I'm currently in **Full Stack Web** training at <a href="https://www.labenu.com.br">_Labenu_</a>, having experience in practical individual and group projects, 
-using technologies such as HTML, CSS, JavaScript, React and others. I have a postgraduate degree in Cinema, Radio and TV, I have been a photographer 
-and video editor for 7 years, with professional experience. I've always liked design, using Photoshop, Figma or Canva. And studying UI/UX I came across Frontend 
-and I was sure that from then on I wanted to become a Dev.**
+**Sou desenvolvedora frontend, atualmente estou em formação Web Full Stack, na <a href="https://www.labenu.com.br">_Labenu_</a>, tendo experiência em projetos práticos individuais e em grupo, utilizando tecnologias como HTML, CSS, JavaScript, React e outras.
+Sou pós -graduada em Cinema, Rádio e Tv, fotografa e editora de vídeos há 7 anos, com experiência profissional. Sempre gostei de design, usando o Photoshop, Figma ou Canva. E estudando UI/UX me deparei com Frontend e tive certeza que dali pra frente queria me tornar uma Dev.**
 
-
-## Technologies that I code with 💻
+## Tecnologias que uso 💻
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -22,13 +19,9 @@ and I was sure that from then on I wanted to become a Dev.**
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-Learning:
-
 ![React Native](https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-
-## Contact me in social media 
+## Rede social 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrejaques/)](https://www.linkedin.com/in/marina-jaudy-599b11a9/)
 
