@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BB33D6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem+vindo+ao+meu+perfil.;Sou+Marina+Jaudy;Desenvolvedora+Front-end;Moro+em+Natal-RN+Brasil)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marinajaudy&show_icons=true&count_private=true&hide_border=true&title_color=BB33D6&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marina Jaudy´s GitHub Stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinajaudy&layout=compact&hide_border=true&title_color=BB33D6d&text_color=BB33D6&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marinajaudy&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marina Jaudy´s GitHub Stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinajaudy&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=00bfbf" />
 </div>
 
 <p align="center">
