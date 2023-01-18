@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff914d&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff914d&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marina+Jaudy;I`m+from+Natal-RN+Brazil;Bem+vindo+ao+meu+perfil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff914d&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marina+Jaudy;Eu+moro+em+Natal-RN+Brasil;Bem+vindo+ao+meu+perfil.)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marinajaudy&show_icons=true&count_private=true&hide_border=true&title_color=ff914d&icon_color=ff914d&text_color=c9d1d9&bg_color=0d1117" alt="Marina Jaudy´s GitHub Stats"
