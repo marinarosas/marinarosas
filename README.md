@@ -7,8 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinajaudy&layout=compact&hide_border=true&title_color=ff914d&text_color=ff914d&bg_color=0d1117" />
 </div>
 
-<img src="" width="fit">
-![Contribution](https://activity-graph.herokuapp.com/graph?username=marinajaudy&theme=gotham&hide_border=true&area=true)/>
+<img src="" width="fit"/>
+![Contribution](https://activity-graph.herokuapp.com/graph?username=marinajaudy&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=marinajaudy&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -17,8 +17,6 @@
 <div align="center">  
 <a href="https://instagram.com/m.a.r.i.rosas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marina-jaudy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <img align="right" alt="Luffy" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/eb94e1ca43e55f65081c36207be76d46/tumblr_miji71hkY91rby56yo1_500.gifv">
-</div> 
 
 ## Um pouco sobre mim
 
