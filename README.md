@@ -17,8 +17,11 @@
 
 ## Um pouco sobre mim
 
-**Sou desenvolvedora frontend, atualmente estou em formação Web Full Stack, na <a href="https://www.labenu.com.br">_Labenu_</a>, tendo experiência em projetos práticos individuais e em grupo, utilizando tecnologias como HTML, CSS, JavaScript, React e outras.
-Sou cineasta, pós -graduada em Rádio e Tv, fotografa e editora de vídeos há 7 anos, com experiência profissional. Sempre gostei de design, usando o Photoshop, Figma ou Canva. E estudando UI/UX, de forma independente, me deparei com Frontend e tive certeza que dali pra frente queria me tornar uma Dev.**
+**Sou desenvolvedora fullstack, atualmente estou em finalizando o curso de Web Full Stack, na <a href="https://www.labenu.com.br">_Labenu_</a>, tendo experiência em projetos práticos individuais e em grupo, utilizando tecnologias como HTML, CSS, JavaScript, React, Node Js, TypeScript, POO, SQL, Jest e outras. Dentro do bootcamp da Labenu auxílio meus colegas, liderando encontros semanais, nos quais procuro esclarecer dúvidas dos projetos, atividades e exercícios ministrados no curso. <br>
+
+Sou cineasta, pós -graduada em Rádio e Tv, fotografa e editora de vídeos há 7 anos, com experiência profissional. Sempre gostei de design e estudando UI/UX, acabei me aprofundando no tema, atuei em projetos como consultora, desenvolvi pesquisa do usuário, participei de alguns Hackathons e foi no meu segundo evento pela Prefeitura de Guarulhos, no qual fiquei entre os 4 primeiros colocados, que um membro da equipe me apresentou o desenvolvimento frontend e tive a oportunidade de acompanhar a aplicação que desenhei virar realidade.<br>
+
+Foi nesse momento da minha transição de carreira que entendi o porque a tecnologia entrou na minha vida, por gostar da parte criativa do UI encontrei uma profissão que fazia o design, mas através de códigos, e foi nesse Hackathon eu tive certeza que queria me tornar uma Dev. Com isso iniciei meus estudos no bootcamp de desenvolvimento web fullstack da Labenu. **
 
 ### Main skills:
 
@@ -35,9 +38,13 @@ Sou cineasta, pós -graduada em Rádio e Tv, fotografa e editora de vídeos há 
   <code><img width="4%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Unity-Dark.svg"></code>
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>  
+  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  
   
 ##
 ### Studying in this moment:
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  Modelagem de Dados
+
+
