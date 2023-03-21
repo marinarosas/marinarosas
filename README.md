@@ -17,7 +17,7 @@
 
 ## Um pouco sobre mim
 
-**Sou desenvolvedora fullstack, atualmente estou em finalizando o curso de Web Full Stack, na <a href="https://www.labenu.com.br">_Labenu_</a>, tendo experiência em projetos práticos individuais e em grupo, utilizando tecnologias como HTML, CSS, JavaScript, React, Node Js, TypeScript, POO, SQL, Jest e outras. Dentro do bootcamp da Labenu auxílio meus colegas, liderando encontros semanais, nos quais procuro esclarecer dúvidas dos projetos, atividades e exercícios ministrados no curso. <br>
+**Sou desenvolvedora fullstack, formada no curso de Web Full Stack, na <a href="https://www.labenu.com.br">_Labenu_</a>, tendo experiência em projetos práticos individuais e em grupo, utilizando tecnologias como HTML, CSS, JavaScript, React, Node Js, TypeScript, POO, SQL, Jest e outras. Dentro do bootcamp da Labenu auxílio meus colegas, liderando encontros semanais, nos quais procuro esclarecer dúvidas dos projetos, atividades e exercícios ministrados no curso. <br>
 
 Sou cineasta, pós -graduada em Rádio e Tv, fotografa e editora de vídeos há 7 anos, com experiência profissional. Sempre gostei de design e estudando UI/UX, acabei me aprofundando no tema, atuei em projetos como consultora, desenvolvi pesquisa do usuário, participei de alguns Hackathons e foi no meu segundo evento pela Prefeitura de Guarulhos, no qual fiquei entre os 4 primeiros colocados, que um membro da equipe me apresentou o desenvolvimento frontend e tive a oportunidade de acompanhar a aplicação que desenhei virar realidade.<br>
 
