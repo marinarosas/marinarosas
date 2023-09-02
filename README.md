@@ -37,7 +37,6 @@ Foi nesse momento da minha transição de carreira que entendi o porque a tecnol
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img width="4%" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Unity-Dark.svg"></code>
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/next-original.svg"></code>
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>  <br>
   
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
