@@ -21,7 +21,7 @@ Sou desenvolvedora fullstack, formada no curso de Web Full Stack, na <a href="ht
 
 Sou cineasta, pós -graduada em Rádio e Tv, fotografa e editora de vídeos há 7 anos, com experiência profissional. Sempre gostei de design e estudando UI/UX, acabei me aprofundando no tema, atuei em projetos como consultora, desenvolvi pesquisa do usuário, participei de alguns Hackathons e foi no meu segundo evento pela Prefeitura de Guarulhos, no qual fiquei entre os 4 primeiros colocados, que um membro da equipe me apresentou o desenvolvimento frontend e tive a oportunidade de acompanhar a aplicação que desenhei virar realidade.<br>
 
-Foi nesse momento da minha transição de carreira que entendi o porque a tecnologia entrou na minha vida, por gostar da parte criativa do UI encontrei uma profissão que fazia o design, mas através de códigos, e foi nesse Hackathon eu tive certeza que queria me tornar uma Dev. Com isso iniciei meus estudos no bootcamp de desenvolvimento web fullstack da Labenu. **
+Foi nesse momento da minha transição de carreira que entendi o porque a tecnologia entrou na minha vida, por gostar da parte criativa do UI encontrei uma profissão que fazia o design, mas através de códigos, e foi nesse Hackathon eu tive certeza que queria me tornar uma Dev. Com isso iniciei meus estudos no bootcamp de desenvolvimento web fullstack da Labenu.
 
 ### Main skills:
 
