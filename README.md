@@ -46,9 +46,9 @@ Foi nesse momento da minha transição de carreira que entendi o porque a tecnol
   
 ##
 ### Studying in this moment:
-  Modelagem de Dados
-  React Native
-  Inteligência Artificial
+  Modelagem de Dados <br>
+  React Native <br>
+  Inteligência Artificial <br>
   Desenvolvimento de games
 
 
