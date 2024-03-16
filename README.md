@@ -23,7 +23,7 @@ Sou cineasta, pós-graduada em Rádio e Tv, fotografa e editora de vídeos há 7
 
 Foi nesse momento da minha transição de carreira que entendi o porque a tecnologia entrou na minha vida, por gostar da parte criativa do UI encontrei uma profissão que faz o design, mas através de códigos, e foi nesse Hackathon eu tive certeza que queria me tornar uma Dev. Com isso iniciei meus estudos no bootcamp de desenvolvimento web fullstack, participei de mais hackathons, chegando a ganhar o do Rio Empreender Criativo, com o projeto Donko, um app de localização de cultura no RJ. 
 
-Em abril de 2023 firmei minha transição de carreira através da minha primeira contratação na área, onde aprendi muito e ainda venho aprendendo, não só sobre tecnologias novas, mas sobre resiliência, trabalho em equipe, união, autogerenciamento, empatia e muito outros apectos que me fazem ser a prossional de hoje.
+Em abril de 2023 firmei minha transição de carreira através da minha primeira contratação na área, onde aprendi muito e ainda venho aprendendo, não só sobre tecnologias novas, mas sobre resiliência, trabalho em equipe, união, autogerenciamento, empatia e muito outros aspectos que me fazem ser a profissional de hoje.
 
 ### Main skills:
 
